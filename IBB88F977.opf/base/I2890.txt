@@ -1,0 +1,64 @@
+Unavailable
+༄༅།།བོད་ཀྱི་ནང་བསྟན་དཔེ་ཚོགས་ལྟེ་བ།།
+TibetanBuddhistResourceCenter
+TextScanInputForm-TitlePage
+TBRCVolumeNumber 2890
+TBRCWorkNumber(W) 3916
+Title
+གསུང་འབུམ/པདྨ་རྣམ་རྒྱལ་
+gsung'bum/padmamnamrgyal
+Author
+པདྨ་རྣམ་རྒྱལ་
+padmamamrgyal
+Descriptor reproduced from xylograph prints and mss available in india,
+bhutan, and nepal atthe order ofdingo chhentse rimpoche; v. 19
+hasimprintshechenpublications,kathmandu
+OriginalPublication
+Place paro
+Publisher ngodup
+1975-1994Date
+25TotalVolumes
+2.2.
+CurrentVolume(ofTotal)
+NumberofTBRCIntroductoryPages
+NumberofIntroductoryPages
+NumberofTextPages
+scannedatthetibetanbuddhistresourcecenter, 1155thave.,new
+TBRCScanningInformation
+york,ny 10003,byrabten2003
+
+FullRecord(LibraryofCongressOnlineCatalog) Page1of2
+TheLibraryofCongress >>GotoLibraryofCongressAuthorities
+LIBRARY OF CONGRESS ONLINE CATALOG
+New Request Start
+Help
+Search Over
+DATABASE:LibraryofCongressOnlineCatalog
+YOUSEARCHED: Author/CreatorBrowse=padma-rnam-rgyal
+SEARCHRESULTS:Displaying3 of10.
+◄ Previous Next‣
+BriefRecord Subjects/Content FullRecord MARCTags
+Thecollectedworksof'Ze-chenRgyal-tshabPadma-rnam-rgyal.
+LCControlNumber: 75903143
+TypeofMaterial:Book(Print, Microform, Electronic, etc.)
+PersonalName: Padma-rnam-rgyal, Ze-chenRgyal-tshab.
+MainTitle:Thecollectedworksof'Ze-chenRgyal-tshabPadma-rnam-rgyal.
+UniformTitle: [Works. 1975]
+Published/Created:Paro :Ngodup, 1975-<1994>
+RelatedTitles: 'Ze-chenRgyal-tshabkyibka''bum.
+Description:v. <1-19,21,23-25>;8x37cm.
+Notes:InTibetan.
+Tibetantitleonboards: 'Ze-chenRgyal-tshabkyibka' 'bum.
+"Reproducedfromxylographprintsandmss.availableinIndia,Bhutan, and
+NepalattheorderofDingoChhentseRimpoche."
+Vol 19hasimprint: ShechenPublications,Kathmandu.
+Subjects:Rñin-ma-pa(Sect)
+LCClassification:BQ7662 .P35 1975
+CALLNUMBER: BQ7662 P35 1975Tib
+1Copy
+Requestin: AsianReadingRoom(Jefferson, LJ150)
+--Status:NotCharged
+◄Previous Next
+.../Pwebrecon.cgi?v3=3&ti=1,3&SEQ=20030608161544&Search_Arg-padma-rnam-rgyal&Sea16/8/2003
+€3916
+
